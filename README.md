@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-The project is developed in Unity environment using C#. [Unity Engine](https://unity.com/) must be installed to compile the project.
+The project is developed in Unity environment using C#. [Unity Engine](https://unity.com/) must be installed to compile the project. Unity version used in the development process was 2019.2.9.
 
 No aditional libraries are needed.
 
