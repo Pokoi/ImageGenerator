@@ -55,10 +55,10 @@ The patterns are adapted to the aspect ratio of the final image. It doesn't need
 
 ## Screenshots of examples 
 
-![alt text](https://github.com/Pokoi/ImageGenerator/tree/master/Generator/Assets/GeneratedImages/1.png)    
-![alt text](https://github.com/Pokoi/ImageGenerator/tree/master/Generator/Assets/GeneratedImages/5.png)    
-![alt text](https://github.com/Pokoi/ImageGenerator/tree/master/Generator/Assets/GeneratedImages/8.png)   
-![alt text](https://github.com/Pokoi/ImageGenerator/tree/master/Generator/Assets/GeneratedImages/12.png)     
+![image](https://github.com/Pokoi/ImageGenerator/blob/master/Generator/Assets/GeneratedImages/63.png)    
+![image](https://github.com/Pokoi/ImageGenerator/blob/master/Generator/Assets/GeneratedImages/6.png)    
+![image](https://github.com/Pokoi/ImageGenerator/blob/master/Generator/Assets/GeneratedImages/78.png)   
+![image](https://github.com/Pokoi/ImageGenerator/blob/master/Generator/Assets/GeneratedImages/101.png)     
 
 
 ## Built With
